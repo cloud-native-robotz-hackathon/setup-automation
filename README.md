@@ -1,3 +1,4 @@
+# DEPREACTED - please take a look into [infrastructure](https://github.com/cloud-native-robotz-hackathon/infrastructure) repo.
 # Robot Hackathon - Automated Setup
 
 Ansible automation to install and configure the OpenShift components for the hackathon.
